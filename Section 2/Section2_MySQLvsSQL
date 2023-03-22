@@ -1,0 +1,7 @@
+/* Find All Users Who Are 18 Or Older */
+
+SELECT * FROM Users WHERE Age >= 18;
+
+/*  MySQL & PostgreSQL implementations*/
+
+SELECT * FROM Users WHERE Age >= 18;
